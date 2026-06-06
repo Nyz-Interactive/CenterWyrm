@@ -17,3 +17,13 @@
   "background_color": "#000000",
   "display": "standalone"
 }
+{
+  "name": "Central do Wyrm",
+  "short_name": "Wyrm",
+  "icons": [...],
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "display": "standalone",
+  "start_url": "/Center/",
+  "scope": "/Center/"
+}
